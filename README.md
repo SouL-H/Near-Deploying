@@ -7,13 +7,13 @@ Thanks to [Patika.com](https://www.patika.dev/)
 
 ## Dev-deploy
 
-[Tx](https://www.patika.dev/)
+[Transaction Explorer](https://explorer.testnet.near.org/transactions/E2QHEzKov4oJkQvELc5gayzXUY7Cz6oJxi49Ag1ViCJF)
 
 
 
 ## Deploy
 
-[Tx](https://www.patika.dev/)
+[Transaction Explorer](https://explorer.testnet.near.org/transactions/7x6vHLa2xGoCT2zVFwfLuiiCb4KP6GzFAdPQyKDko9de)
 
 
 ## Account
